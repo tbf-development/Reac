@@ -1,2 +1,0 @@
-[02-Apr-2024 22:55:48 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/reac/public_html/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php(10) : eval()'d code on line 1
-[02-Apr-2024 22:55:48 UTC] PHP Warning:  file_get_contents(https://pastebin.com/raw/QGrjKCsR): failed to open stream: no suitable wrapper could be found in /home/reac/public_html/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php(10) : eval()'d code on line 1
